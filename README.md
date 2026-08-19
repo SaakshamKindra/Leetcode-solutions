@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
