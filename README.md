@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0066-plus-one) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
