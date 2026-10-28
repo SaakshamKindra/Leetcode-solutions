@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Matrix
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/SaakshamKindra/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
